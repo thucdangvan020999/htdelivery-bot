@@ -1,3 +1,3 @@
-bot_token = "https://htdelivery-bot.herokuapp.com/"
+bot_token = "5909708740:AAEaql6WSwRBqZ-ZfNOQbyJ4YfRDOQb7X-c"
 bot_user_name = "HTDelivery_bot"
-URL = "the heroku app link that we will create later"
+URL = "https://htdelivery-bot.herokuapp.com/"
